@@ -248,32 +248,6 @@ To add your very own plugin just use the format given below and go through the [
   # Add plugins in [plugin](https://github.com/Gojo-Bots/Gojo_Satoru/tree/master/Powers/plugins) section
   ##  **Note** : Don't use <> this bracket while writing the code...
       
---------  
-      
-# Contributors
-      
-[![Contributors](https://contrib.rocks/image?repo=Gojo-Bots/Gojo_Satoru)](https://github.com/Gojo-Bots/Gojo_Satoru/graphs/contributors)
-
-
----------
-
-# Special Thanks ❤️
-      
-<!----<p align='left'>
-  <a href="https://github.com/iamPSYREX"><img src="https://avatars.githubusercontent.com/u/90316018?v=4" width="300" 
-     height="300 alt="PSYREX"></a></br></br>
-   
-</p>--->
-
-Some special thanks to the person/repo who/which helped and motivated me to create this project
-
-* [PSYREX](https://github.com/iamPSYREX) for logos and motivating me and giving me new ideas.
-
-* [Dan](https://github.com/delivrance) for [pyrogram](https://github.com/pyrogram/pyrogram) `library`
-
-* [Anand](https://github.com/HellBoy-OP) for helping me to enhance the bot's security and look and also helping me out with various stuff and bugs and also for motivating me to create this project.
-
-* [Alita_Robot](https://github.com/divideprojects/Alita_Robot) for base code.
 
 ---------
 
