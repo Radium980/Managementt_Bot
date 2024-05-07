@@ -60,9 +60,9 @@ This is a powerful Group Management bot with awesome plugins and features.
 * Fully open-source
 * Frequently updated
   
-***Can be found on Telegram as __[@GojoSuperbot](https://telegram.dog/GojoSuperbot)__***
+Can be found on Telegram as __[Radium](https://t.me/II_R4dium_xd_II)
   
-* Feel free to give ideas for next update. Drop your ideas [here](https://github.com/Gojo-Bots/Gojo_Satoru/discussions/new?category=ideas)
+* Feel free to give ideas for next update. Drop [Here](https://t.me/Alice_x_support)
 
 -------
 
