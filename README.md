@@ -277,11 +277,11 @@ Some special thanks to the person/repo who/which helped and motivated me to crea
 
 ---------
 
-# Powered by [ɢօʝօ ɮօȶֆ](https://github.com/Gojo-Bots)
+# Powered by [• 𝐑α𝚍ι𝛖ϻ ꭙ𝚍 ‹𝟹](https://github.com/radium980)
 
 
 <p align='left'>
-  <a href="https://github.com/Gojo-Bots"><img src="https://artfiles.alphacoders.com/160/160160.jpeg" alt="Gojo Bots"></a></br></br>
+  <a href="https://github.com/radium980"><img src="https://te.legra.ph/file/54e34ff8342fba200dfff.jpg" alt="Radium Bots"></a></br></br>
    
 </p>
 
