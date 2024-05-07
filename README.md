@@ -66,16 +66,6 @@ This is a powerful Group Management bot with awesome plugins and features.
 
 -------
 
-## License
-[![GPLv3](https://www.gnu.org/graphics/gplv3-127x51.png)](https://www.gnu.org/licenses/gpl-3.0.en.html)
-<br>Licensed Under <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GNU General Public License v3</a>
-
-
-
----------
-
-
-
 # DEPLOYMENT 🚀
 ## Deploy To Heroku
 * **Make Sure you have Heroku account**
