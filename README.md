@@ -1,11 +1,11 @@
 <h1 align="center">
-  <b> Gojo_Satoru </b>
+  <b> • 𝐑α𝚍ι𝛖ϻ ꭙ𝚍 ‹𝟹 </b>
 <!---</h1>
 <h1 align="center"><img src="https://media.giphy.com/media/GL42TduR8AkNq1xRog/giphy.gif" /></h1>--->
 
 <!---<h1 align="center"><img src="https://te.legra.ph/file/4bf3b88115068d41efadd.jpg" /></h1>--->
   
-<h1 align="center"><img src="./extras/gojo_satoru__psd__by_at_yomiko_deyaec4-pre.jpg" /></h1>
+<h1 align="center"><img src="https://te.legra.ph/file/0fb9b5e8c7d4946b0522e.jpg" /></h1>
 
 
 
@@ -45,12 +45,12 @@ Mainly:
 
 ## About 
   
-  <h1 align="center"><img src="./extras/original.gif" /></h1>
+  <h1 align="center"><img src="https://te.legra.ph/file/67a4988c5a204f29bb327.jpg" /></h1>
   
   
-The Gojo Satoru is a powerful Group Management bot with awesome plugins and features.
+This is a powerful Group Management bot with awesome plugins and features.
  
-  **If you counter any problem or face any bugs for help join 🌟 [ɢօʝօ ɮօȶֆ](https://telegram.dog/gojo_bots_network) 🌟 and then join the gc and ask your problem.**
+  **If you counter any problem or face any bugs for help join 🌟 [Support](https://t.me/Alice_x_support) 🌟 join the gc and ask your problem.**
 
 ## Features
   
